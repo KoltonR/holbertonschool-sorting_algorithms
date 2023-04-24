@@ -1,9 +1,9 @@
 #include "sort.h"
 /**
- *  * bubble_sort - sorts an array of integers using the Bubble sort algorithm
- *   * @array: unsorted integers array
- *    * @size: array size
- *     */
+ * bubble_sort - sorts an array of integers using the Bubble sort algorithm
+ * @array: unsorted integers array
+ * @size: array size
+ */
 void bubble_sort(int *array, size_t size)
 {
 	unsigned int count = 0, value = 0;
